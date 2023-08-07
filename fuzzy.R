@@ -124,4 +124,3 @@ final_fuzzy_dis2 <- final_fuzzy_dis1 %>%
 final_fuzzy_dis0 <- rbind(final_fuzzy_dis0, final_fuzzy_dis2) 
 final_fuzzy_dis0 <- final_fuzzy_dis0 %>% select(-cleaned_game_name.x, -cleaned_game_name.y, -final_name.x, -final_name.y, -dist)
 write.csv(final_fuzzy_dis0,"/Users/minjikim/Desktop/Current Semester/Data Analytics/Final Project/final_fuzzy.csv")
-
