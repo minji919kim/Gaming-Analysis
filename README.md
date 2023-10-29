@@ -20,4 +20,4 @@ However, our findings contradicted these hypotheses with various regressions and
 2. There is a clear connection between game scores and ratings: games with E and PG ratings typically have higher user scores, while M and T-rated games often score better with critics.
 3. There is a notable gap between critics’ and users’ scores, likely due to inherent biases and differing priorities among the two groups.
 
-To learn more about findings, please check [here](data-presentation)
+To learn more about findings, please check [the report and powerpoint](data-presentation).
